@@ -1,6 +1,10 @@
 # project_python_advanced_machine_learning
 
-Date: Jan 2020
+## Utrecht University
+## Jan 2020
+
+- ###   Riccardo Bassani ([@BassaniRiccardo](https://github.com/BassaniRiccardo))
+- ###   Samuel Meyer
 
 This project contains the work done in the course "Advanced Machine Learning", at Utrecht University.
 It is made of three assignments in the form of Jupyter Notebooks.
