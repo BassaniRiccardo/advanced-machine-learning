@@ -4,7 +4,7 @@
 ## Jan 2020
 
 - ###   Riccardo Bassani ([@BassaniRiccardo](https://github.com/BassaniRiccardo))
-- ###   Samuel Meyer
+- ###   Samuel Meyer  ([@VolJay](https://github.com/VolJay))
 
 This project contains the work done in the course "Advanced Machine Learning", at Utrecht University.
 It is made of three assignments in the form of Jupyter Notebooks.
